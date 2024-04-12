@@ -1,1 +1,0 @@
-print("Data Structure and Alogorithm.")
